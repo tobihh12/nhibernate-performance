@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHibernatePerformance", "NHibernatePerformance\NHibernatePerformance.csproj", "{217F5089-EC49-4935-B9D9-AFEB024FA3F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHibernatePerformance.Tests", "NHibernatePerformance.Tests\NHibernatePerformance.Tests.csproj", "{19CA4058-D561-45CF-8F74-A1D2A06E0E23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{217F5089-EC49-4935-B9D9-AFEB024FA3F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{217F5089-EC49-4935-B9D9-AFEB024FA3F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{217F5089-EC49-4935-B9D9-AFEB024FA3F8}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{217F5089-EC49-4935-B9D9-AFEB024FA3F8}.Debug|x64.Build.0 = Debug|Any CPU
+		{217F5089-EC49-4935-B9D9-AFEB024FA3F8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{217F5089-EC49-4935-B9D9-AFEB024FA3F8}.Debug|x86.Build.0 = Debug|Any CPU
+		{217F5089-EC49-4935-B9D9-AFEB024FA3F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{217F5089-EC49-4935-B9D9-AFEB024FA3F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{217F5089-EC49-4935-B9D9-AFEB024FA3F8}.Release|x64.ActiveCfg = Release|Any CPU
+		{217F5089-EC49-4935-B9D9-AFEB024FA3F8}.Release|x64.Build.0 = Release|Any CPU
+		{217F5089-EC49-4935-B9D9-AFEB024FA3F8}.Release|x86.ActiveCfg = Release|Any CPU
+		{217F5089-EC49-4935-B9D9-AFEB024FA3F8}.Release|x86.Build.0 = Release|Any CPU
+		{19CA4058-D561-45CF-8F74-A1D2A06E0E23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19CA4058-D561-45CF-8F74-A1D2A06E0E23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19CA4058-D561-45CF-8F74-A1D2A06E0E23}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{19CA4058-D561-45CF-8F74-A1D2A06E0E23}.Debug|x64.Build.0 = Debug|Any CPU
+		{19CA4058-D561-45CF-8F74-A1D2A06E0E23}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{19CA4058-D561-45CF-8F74-A1D2A06E0E23}.Debug|x86.Build.0 = Debug|Any CPU
+		{19CA4058-D561-45CF-8F74-A1D2A06E0E23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19CA4058-D561-45CF-8F74-A1D2A06E0E23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19CA4058-D561-45CF-8F74-A1D2A06E0E23}.Release|x64.ActiveCfg = Release|Any CPU
+		{19CA4058-D561-45CF-8F74-A1D2A06E0E23}.Release|x64.Build.0 = Release|Any CPU
+		{19CA4058-D561-45CF-8F74-A1D2A06E0E23}.Release|x86.ActiveCfg = Release|Any CPU
+		{19CA4058-D561-45CF-8F74-A1D2A06E0E23}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1955D87-5C98-459E-A891-B2196748F217}
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal
